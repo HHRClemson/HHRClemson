@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to the HRR page!
-Welcome to the Hydrosystem and Hydroinformatics Research (HHR) Git pagey. We are a team of researchers exploring new approaches to bring advancements in computing and data analytics to society's most challenging water resources management problems. We have a Justice, Equity, Diversity, and Inclusion (JEDI) statement! &nbsp 
+Welcome to the Hydrosystem and Hydroinformatics Research (HHR) Git pagey. We are a team of researchers exploring new approaches to bring advancements in computing and data analytics to society's most challenging water resources management problems. We have a Justice, Equity, Diversity, and Inclusion (JEDI) statement! 
 
 We honor diverse perspectives, hold space for truly hearing and understanding each other, and harness our collective strengths to bring into the water resources research community that promote justice, equity, diversity, and inclusivity.
 <!--
